@@ -19,7 +19,7 @@ export default tseslint.config(
     },
     rules: {
       ...reactHooks.configs.recommended.rules,
-      "react/react-in-jsx-scope": "off", // ← Add this line
+      "react/react-in-jsx-scope": "off",     // ← THIS LINE FIXES THE ERROR
     },
   }
 );
