@@ -15,6 +15,10 @@ Kanban board app (b7al Trello sghir) m3a login, tasks, drag & drop, comments o s
 - Frontend: React + TS + Vite + TanStack Query + React Router
 - Backend: Node + Express + TS + SQLite + JWT + Zod
 - Tests: Vitest (all passing)
+- App demo (login → board → search → task + comment + create + drag → logout):
+https://drive.google.com/file/d/1HvyxUKtTeyo7fvymaW15yOG9CcFVIx8t/view?usp=sharing
+Tests demo (pnpm test):
+https://drive.google.com/file/d/1ZdZgMxqyukiBGa1p1PrYQS3pEjrCphhe/view?usp=sharing
 
 ## Setup
 ```bash
